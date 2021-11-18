@@ -1,0 +1,1 @@
+![Diagrama entidad relación](entidad-relacion.png?raw=true "Diagrama entidad relación")
